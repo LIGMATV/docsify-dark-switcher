@@ -1,5 +1,6 @@
 # Docsify Dark Switcher [Preview](https://docsify-dark-switcher.vercel.app/)
 Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
+*(With a bit enhancement from you)*.
 ![Screenshot Capture - 2024-05-19 - 13-06-35](https://github.com/LIGMATV/docsify-dark-switcher/assets/143163098/90db43ce-a63e-4cb7-8edd-b137f11ff95e)
 ![Screenshot Capture - 2024-05-19 - 13-07-12](https://github.com/LIGMATV/docsify-dark-switcher/assets/143163098/979526dd-0981-4f29-9eee-0b708ab8e150)
 
