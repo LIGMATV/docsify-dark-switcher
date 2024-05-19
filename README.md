@@ -6,12 +6,12 @@ Easily switch toggle to light and dark theme for your Docsify, customizable and 
 # Install
  
 ```css
-<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-github/github.css">
+<link rel="stylesheet" href="//cdn.jsdelivr.net/gh/LIGMATV/docsify-dark-switcher@main/docsify-dark-switcher.js">
 ```
 
 > [!NOTE]
 > Just to be safe, please use your downloaded version.
-> You can download the navbar-fixed.css <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-theme-github/github.css" download>here</a>.
+> You can download the docsify-dark-switcher.js <a href="https://cdn.jsdelivr.net/gh/LIGMATV/docsify-dark-switcher@main/docsify-dark-switcher.js" download>here</a>.
 
 # Configuration
 
