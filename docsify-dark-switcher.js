@@ -102,8 +102,11 @@ button[onclick="docsifyDarkSwitcher()"] {
     color: var(--dark-theme-color);
     border-color: var(--dark-theme-color);
 }
-.docsify-dark-mode .sidebar ul li a {
+.docsify-dark-mode .sidebar ul li a, .docsify-dark-mode .markdown-section strong {
     color: var(--dark-base-color);
+}
+.docsify-dark-mode .markdown-section tr:nth-child(2n) {
+    background-color: #3b3b3b;
 }
 @media screen and (min-width:769px) {
     .docsify-dark-mode .sidebar-toggle {
