@@ -38,6 +38,9 @@ Easily switch toggle to light and dark theme for your Docsify, customizable and 
 }
 ```
 
+If you want add the dark mode version from some element, add ``.docsify-dark-mode`` part on your CSS.  
+Example : ``.docsify-dark-mode element {``
+
 Every ⭐ star is expensive. If you can star this repository, you absolutely rich!
 
 usually, you done!
