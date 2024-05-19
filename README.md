@@ -1,5 +1,6 @@
 # Docsify Dark Switcher [Preview](https://docsify-dark-switcher.vercel.app/)
 Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
+*(With a bit enhancement from you)*.
 ![Screenshot Capture - 2024-05-19 - 13-06-35](https://github.com/LIGMATV/docsify-dark-switcher/assets/143163098/90db43ce-a63e-4cb7-8edd-b137f11ff95e)
 ![Screenshot Capture - 2024-05-19 - 13-07-12](https://github.com/LIGMATV/docsify-dark-switcher/assets/143163098/979526dd-0981-4f29-9eee-0b708ab8e150)
 
@@ -37,6 +38,16 @@ Easily switch toggle to light and dark theme for your Docsify, customizable and 
 }
 ```
 
-Every ⭐ star is expensive. If you can star this repository, you absolutely rich!
+If you want add the dark mode version from some element, add ``.docsify-dark-mode`` part on your CSS.  
+Example : ``.docsify-dark-mode element {``
+
+# Showcase
+
+- [LIGMATV](https://ligmatv.is-a.dev/) - Home of my open blogs 📖.
+
+---
+
+Every ⭐ star is expensive. If you can star this repository, you absolutely rich!  
+✨ *If you using this plugin, consider to add the project in the showcase. So i can see that! :)*
 
 usually, you done!
