@@ -46,7 +46,7 @@ Example : ``.docsify-dark-mode element {``
 
 # Showcase
 
-- [LIGMATV](https://ligmatv.is-a.dev/) - Home of my open blogs 📖.
+- [LIGMATV](https://ligmatv.is-a.dev/Docs-Docsify/) - Home of my open blogs 📖.
 
 ---
 
