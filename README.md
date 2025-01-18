@@ -1,3 +1,7 @@
+> [!CAUTION]
+> # This repository has been moved to GitLab with the latest commits not available in this repository. <sup>[?](https://gitlab.com/LIGMATV)</sup>
+> https://gitlab.com/LIGMATV/docsify-dark-switcher
+
 # Docsify Dark Switcher [Preview](https://docsify-dark-switcher.vercel.app/)
 Easily switch toggle to light and dark theme for your Docsify, customizable and works in any CSS themes.
 *(With a bit enhancement from you)*.
